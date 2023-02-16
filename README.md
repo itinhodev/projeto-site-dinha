@@ -1,5 +1,5 @@
 # Projeto site nutrição
 
-## Projeto criado pensando em auxiliar minha esposa com um site sobre o trabalho dela e me incentivar a praticar os códigos!
+## Projeto criado pensando em auxiliar minha esposa com um site para a divulgação do trabalho dela e um incentivo para me ajudar a praticar os códigos!
 
-Steps do site
+### Steps do site
